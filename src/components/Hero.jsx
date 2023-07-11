@@ -7,9 +7,9 @@ const Hero = () => {
             <div className="hero-title">
                 <h1>Rio Joy Cabalda</h1>
                 <p>
-                  <span>{'>'} React JS</span>
-                  <span>{'>'} HTML</span>
-                  <span>{'>'} CSS</span>
+                  <span>{'>'} React JS</span><br />
+                  <span>{'>'} HTML</span><br />
+                  <span>{'>'} CSS</span><br />
                   <span>{'>'} Javascript</span>
                 </p>
             </div>
