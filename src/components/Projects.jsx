@@ -13,7 +13,7 @@ const Projects = () => {
   return (
     <section className='projects'>
         <div className="title">
-            <h2>Projects</h2>
+            <h2>Projects using React</h2>
             <div className="title-underline"></div>
         </div>
         <div className="projects-center">
