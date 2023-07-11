@@ -5,9 +5,12 @@ const Hero = () => {
     <section className="hero">
         <div className="hero-center">
             <div className="hero-title">
-                <h1>Contentful CMS</h1>
-                <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Aliquid veniam numquam officiis voluptatum, perspiciatis dignissimos explicabo esse dicta doloribus commodi laboriosam qui. Quis possimus excepturi magnam quibusdam numquam reprehenderit labore.
-                Et facere odio fugiat neque praesentium recusandae amet, commodi tenetur fuga! Consectetur suscipit, delectus quo veniam distinctio tempora dolor dolores sed. Nostrum laboriosam impedit non cum! Unde odio fugiat ut?
+                <h1>Rio Joy Cabalda</h1>
+                <p>
+                  <span>{'>'} React JS</span>
+                  <span>{'>'} HTML</span>
+                  <span>{'>'} CSS</span>
+                  <span>{'>'} Javascript</span>
                 </p>
             </div>
             <div className="img-container">
